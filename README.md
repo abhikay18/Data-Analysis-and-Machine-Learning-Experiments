@@ -50,4 +50,4 @@ This repository contains a collection of data analysis and machine learning expe
 Clone this repository and navigate through each directory to explore the individual topics and their implementations. Example datasets such as `sample.csv` and `iris.csv` are provided for practice.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/abhikay18/Data-Analysis-and-Machine-Learning-Experiments.git
